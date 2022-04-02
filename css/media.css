@@ -1,0 +1,14 @@
+@media (max-width:375px) {
+    .wrapper {
+        width: 326px;
+    }
+    .bg-img {
+        width: 326px;
+    }
+    .strange__letters {
+        width: 233px;
+    }
+    body {
+        background-position: right -25% top -509px, left -25% bottom -640px;
+    }
+}
